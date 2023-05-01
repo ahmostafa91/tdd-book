@@ -1,0 +1,19 @@
+#appointmentsDayView {
+    display: flex;
+}
+
+#appointmentsDayView ol {
+    width: 15%;
+}
+
+#appointmentsDayView .appointmentView {
+    width: 100%;
+}
+
+#appointmentsDayView ol li button {
+    cursor: pointer;
+}
+
+.toggled {
+    border: 1px dashed #eee;
+}
